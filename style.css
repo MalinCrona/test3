@@ -9,6 +9,12 @@ text-align: center;
 	border:15px solid red;
 
 }
+h2 {text-align: center;
+	color:blue;
+	font-size: 52px;
+}
+a {color:blue;
+}
 { background: #EEEEEE; 
 	font: 12pt/1.4 "Helvetica Neue", "Helvetica", 
 	serif; 
