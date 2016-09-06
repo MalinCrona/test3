@@ -1,0 +1,23 @@
+h1 {color: orange;
+text-align: center;
+}
+#blue{
+	color:blue;
+	font-size: 72px;
+}
+.bild{
+	border:15px solid red;
+
+}
+{ background: #EEEEEE; 
+	font: 12pt/1.4 "Helvetica Neue", "Helvetica", 
+	serif; 
+	max-width: 600px; 
+	margin: 0 
+	auto; } h1 
+	{ 
+		color: #FF9999; } a { 
+			color: #FF3333; } p { 
+				border-bottom: 1px 
+				solid #FF9999; 
+				padding-bottom: 5px; }
